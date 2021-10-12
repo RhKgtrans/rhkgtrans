@@ -6,8 +6,8 @@ define('FB_URL', 'Ice Hrm');
 define('TWITTER_URL', 'Ice Hrm');
 
 define('CLIENT_NAME', 'app');
-define('APP_BASE_PATH', 'core/');
-define('CLIENT_BASE_PATH', 'app/');
+define('APP_BASE_PATH', 'https://github.com/RhKgtrans/rhkgtrans/tree/master/');
+define('CLIENT_BASE_PATH', 'https://github.com/RhKgtrans/rhkgtrans/tree/master/app/');
 define('BASE_URL','http://rh-kgtrans.herokuapp.com/');
 define('CLIENT_BASE_URL','http://rh-kgtrans.herokuapp.com/app/');
 
